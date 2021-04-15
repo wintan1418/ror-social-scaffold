@@ -8,8 +8,11 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.6'
 # Use postgresql as the database for Active Record
 gem 'pg', '~> 1.2', '>= 1.2.3'
 # Use Puma as the app server
+gem 'capybara', '~> 3.35', '>= 3.35.3'
 gem 'puma', '~> 3.12'
+gem 'selenium-webdriver'
 gem 'sqlite3'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
@@ -44,6 +47,7 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
   gem 'rspec-rails', '~> 5.0', '>= 5.0.1'
+  gem 'shoulda-matchers'
 end
 
 group :development do
