@@ -7,14 +7,14 @@
 - Ruby v2.7.0
 - Ruby on Rails v5.2.4
 
-## Live Demo
+## Live Demo- https://wintan-app.herokuapp.com/users/sign_in
 
 TBA
 
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+To get a local copy up of this project and running please follow these simple example steps.
 
 ### Prerequisites
 
@@ -49,6 +49,9 @@ To make sure the linters' checks using Github Actions work properly, you should 
 
 ### Usage
 
+
+### HEROKU LINK - https://wintan-app.herokuapp.com/users/sign_in
+
 Start server with:
 
 ```
@@ -68,16 +71,18 @@ Open `http://localhost:3000/` in your browser.
 ### Deployment
 
 TBA
+##**AUTHORS**
+**Oluwadare Juwon**
 
-## Authors
-
-TBA
+- GitHub: [@wintan1418](https://github.com/wintan1418)
+- Twitter: [@juwonoluwadare](https://twitter.com/oluwadarejuwon)
+- LinkedIn: [Oluwadare Juwon](https://www.linkedin.com/in/oluwadare-juwon-048a391a8/)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+- If you want to contribute or have a feature to add.
+- Go to the repo
+- Open a pull request
 
 ## Show your support
 
