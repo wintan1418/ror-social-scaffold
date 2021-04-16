@@ -7,7 +7,7 @@
 - Ruby v2.7.0
 - Ruby on Rails v5.2.4
 
-## Live Demo
+## Live Demo- https://wintan-app.herokuapp.com/users/sign_in
 
 TBA
 
@@ -48,7 +48,7 @@ To make sure the linters' checks using Github Actions work properly, you should 
 
 
 ### Usage
-## HEROKU-LINK - https://dashboard.heroku.com/apps/warm-crag-44050
+## HEROKU-LINK -https://wintan-app.herokuapp.com/users/sign_in
 
 
 Start server with:
