@@ -49,6 +49,7 @@ To make sure the linters' checks using Github Actions work properly, you should 
 
 ### Usage
 
+
 ### HEROKU LINK - https://dashboard.heroku.com/apps/warm-crag-44050
 
 
@@ -71,7 +72,7 @@ Open `http://localhost:3000/` in your browser.
 ### Deployment
 
 TBA
-
+##**AUTHORS**
 **Oluwadare Juwon**
 
 - GitHub: [@wintan1418](https://github.com/wintan1418)
